@@ -52,5 +52,6 @@
 		<input type="button" value="수정" onclick="goUrl('boardModifyFormAction?num=${num}&pageNum=${pageNum}&amp;searchType=${searchType}&amp;searchText=${searchText}');" />
 		<input type="button" value="삭제" onclick="deleteCheck('boardDeleteAction?num=${num}&pageNum=${pageNum}&amp;searchType=${searchType}&amp;searchText=${searchText}');" />
 	</p>
+	Struts 게시판	
 </body>
 </html>

@@ -8,5 +8,6 @@
 </head>
 <body>
 	<s:property value="%{str}" />
+	Struts 게시판 테스트
 </body>
 </html>

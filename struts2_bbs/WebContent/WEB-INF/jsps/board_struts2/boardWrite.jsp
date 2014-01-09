@@ -64,6 +64,7 @@
 		<s:submit value="글쓰기" />
 	</p>
 	</s:form>
+	Struts 게시판	
 </body>
 </html>
 

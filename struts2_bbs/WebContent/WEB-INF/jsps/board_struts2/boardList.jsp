@@ -80,5 +80,6 @@
 		<input type="button" value="목록" onclick="goUrl('<s:url value="boardListAction"/>');" />
 		<input type="button" value="글쓰기" onclick="goUrl('<s:url value="boardWriteFormAction"/>');" />
 	</p>
+	Struts 게시판
 </body>
 </html>

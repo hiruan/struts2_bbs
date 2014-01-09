@@ -72,5 +72,6 @@
 		<input type="submit" value="글수정" />
 	</p>
 	</s:form>
+	Struts 게시판	
 </body>
 </html>
